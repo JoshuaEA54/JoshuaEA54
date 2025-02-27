@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Repository Banner](https://raw.githubusercontent.com/JoshuaEA54/JoshuaEA54/joshua.jpg)
+![Repository Banner](https://raw.githubusercontent.com/JoshuaEA54/JoshuaEA54/main/joshua.jpg)
 
 <!--
 **JoshuaEA54/JoshuaEA54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
