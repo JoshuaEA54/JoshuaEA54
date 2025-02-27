@@ -17,6 +17,8 @@ What I’m up to
 - ⚡ Fun fact: I also love playing guitar and exploring music in my free time.
 - 🎸 Here's a pic!
   
-  ![Repository Banner](https://raw.githubusercontent.com/JoshuaEA54/JoshuaEA54/main/joshua2.jpg)
+  <p align="center">
+     <img src="https://raw.githubusercontent.com/JoshuaEA54/JoshuaEA54/main/joshua2.jpg" alt="Joshua's Image playing the guitar" width="300" />
+  </p>
 
 
