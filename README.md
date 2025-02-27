@@ -1,6 +1,13 @@
-## Hi there 👋
 
-![Repository Banner](https://raw.githubusercontent.com/JoshuaEA54/JoshuaEA54/main/joshua2.jpg)
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header
+         &text=Hi%20👋,%20I'm%20Joshua&fontSize=40&fontColor=ffffff
+         &animation=fadeIn&fontAlignY=38&desc=Systems%20Engineering%20Student%20|%20AI%20Enthusiast
+         &descAlignY=58&descAlign=70" 
+    alt="Header"
+  />
+</p>
 
 <!--
 **JoshuaEA54/JoshuaEA54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
