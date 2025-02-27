@@ -5,6 +5,8 @@
   />
 </p>
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/joshua-elizondo-b48549351/)
+
 Hello, everyone! I'm Joshua, a third-year Systems Engineering student at the National University of Costa Rica. I’m passionate about artificial intelligence, web development, and continuous learning. I love exploring new technologies and building projects that make a positive impact.
 
 What I’m up to
