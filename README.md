@@ -5,18 +5,18 @@
   />
 </p>
 
+Hello, everyone! I'm Joshua, a third-year Systems Engineering student at the National University of Costa Rica. I’m passionate about artificial intelligence, web development, and continuous learning. I love exploring new technologies and building projects that make a positive impact.
 
-<!--
-**JoshuaEA54/JoshuaEA54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What I’m up to
+- 🧐 I'm interested in AI, machine learning, and cloud technologies.
+- 🔭 I’m currently working on personal projects with HTML, CSS and Bootstrap.
+- 🌱 I’m currently studying Web Development, Networks, Data Bases and Operative Systems.
+- 👯 I’m looking to collaborate on open-source projects related to AI or web dev.
+- 🤔 I’m looking for help with real-world AI implementations and best practices.
+- 💬 Ask me about Java, Docker, or any challenges you’re facing in APIs!
+- ⚡ Fun fact: I also love playing guitar and exploring music in my free time.
+- 🎸 Here's a pic!
+  
+  ![Repository Banner](https://raw.githubusercontent.com/JoshuaEA54/JoshuaEA54/main/joshua2.jpg)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
