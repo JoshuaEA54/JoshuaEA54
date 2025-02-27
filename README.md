@@ -21,4 +21,7 @@ What I’m up to
      <img src="https://raw.githubusercontent.com/JoshuaEA54/JoshuaEA54/main/joshua2.jpg" alt="Joshua's Image playing the guitar" width="300" />
   </p>
 
+[![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaEA54&show=prs_merged,prs_merged_percentage&hide=contribs,stars,issues&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/JoshuaEA54/github-readme-stats#gh-dark-mode-only)
+[![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaEA54&show=prs_merged,prs_merged_percentage&hide=contribs,stars,issues&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/JoshuaEA54/github-readme-stats#gh-light-mode-only)
+
 
