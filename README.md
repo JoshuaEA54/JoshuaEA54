@@ -1,13 +1,13 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋,%20I'm%20Joshua&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineering%20Student%20|%20AI%20Enthusiast🚀&descAlignY=58&descAlign=70" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋,%20I'm%20Joshua!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineering%20Student%20|%20AI%20Enthusiast🚀&descAlignY=58&descAlign=70" 
     alt="Header"
   />
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/joshua-elizondo-b48549351/)
+# Hello, everyone!
 
-Hello, everyone! I'm Joshua, a third-year Systems Engineering student at the Universidad Nacional de Costa Rica. I’m passionate about artificial intelligence, web development, and continuous learning. I love exploring new technologies and building projects that make a positive impact.
+I'm Joshua, a third-year Systems Engineering student at the Universidad Nacional de Costa Rica. I’m passionate about artificial intelligence, web development, and continuous learning. I love exploring new technologies and building projects that make a positive impact.
 
 What I’m up to
 - 🧐 I'm interested in AI, machine learning, and cloud technologies.
@@ -20,6 +20,11 @@ What I’m up to
 - 🎸 Here's a pic!
   
      <img src="https://raw.githubusercontent.com/JoshuaEA54/JoshuaEA54/main/joshua2.jpg" alt="Joshua's Image playing the guitar" width="300" />
+
+ ## 🤝Let's Connect!
+
+ [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/joshua-elizondo-b48549351/)
+ 
 
 [![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaEA54&show=prs_merged,prs_merged_percentage&hide=contribs,stars,issues&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/JoshuaEA54/github-readme-stats#gh-dark-mode-only)
 
